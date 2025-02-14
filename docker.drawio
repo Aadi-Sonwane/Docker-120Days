@@ -1,35 +1,73 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.13">
   <diagram name="Page-1" id="rvszo2AwaI_2a9ssAYcK">
-    <mxGraphModel dx="1434" dy="784" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="784" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0" adaptiveColors="auto">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="KehCBfUnX_1g3-heXKs--3" value="&lt;h4&gt;It Works on My Machine:&lt;br&gt;Ubuntu&lt;/h4&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="260" width="111.5" height="80" as="geometry" />
+        <mxCell id="KehCBfUnX_1g3-heXKs--13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;" edge="1" parent="1" source="KehCBfUnX_1g3-heXKs--1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="414" y="410" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="KehCBfUnX_1g3-heXKs--1" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Docker.svg;" vertex="1" parent="1">
-          <mxGeometry x="40" y="500" width="380" height="311.6" as="geometry" />
-        </mxCell>
-        <mxCell id="KehCBfUnX_1g3-heXKs--6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KehCBfUnX_1g3-heXKs--4" target="KehCBfUnX_1g3-heXKs--3">
+        <mxCell id="KehCBfUnX_1g3-heXKs--16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;" edge="1" parent="1" source="KehCBfUnX_1g3-heXKs--1" target="KehCBfUnX_1g3-heXKs--15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KehCBfUnX_1g3-heXKs--4" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/boxicons-logos/24/bxl-django-128.png;textShadow=0;" vertex="1" parent="1">
-          <mxGeometry x="60" y="170" width="60" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="KehCBfUnX_1g3-heXKs--7" value="&lt;h4&gt;It Works Everywhere:&lt;br&gt;Mac&lt;/h4&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="260" width="111.5" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="KehCBfUnX_1g3-heXKs--8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KehCBfUnX_1g3-heXKs--9" target="KehCBfUnX_1g3-heXKs--7">
+        <mxCell id="KehCBfUnX_1g3-heXKs--18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;" edge="1" parent="1" source="KehCBfUnX_1g3-heXKs--1" target="KehCBfUnX_1g3-heXKs--17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KehCBfUnX_1g3-heXKs--9" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/boxicons-logos/24/bxl-django-128.png;textShadow=0;" vertex="1" parent="1">
-          <mxGeometry x="290" y="170" width="60" height="60" as="geometry" />
+        <mxCell id="KehCBfUnX_1g3-heXKs--20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;" edge="1" parent="1" source="KehCBfUnX_1g3-heXKs--1" target="KehCBfUnX_1g3-heXKs--19">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KehCBfUnX_1g3-heXKs--10" value="" style="shape=actor;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="90" y="360" width="20" height="40" as="geometry" />
+        <mxCell id="KehCBfUnX_1g3-heXKs--1" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Docker.svg;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="1">
+          <mxGeometry x="269" y="466" width="290" height="237.8" as="geometry" />
         </mxCell>
-        <mxCell id="KehCBfUnX_1g3-heXKs--11" value="" style="shape=actor;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="360" width="20" height="40" as="geometry" />
+        <mxCell id="KehCBfUnX_1g3-heXKs--12" value="&#xa; &lt;strong data-end=&quot;219&quot; data-start=&quot;184&quot;&gt;Consistency Across Environments&lt;/strong&gt; í ¼í¿—ï¸&#xa;&#xa;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;labelBackgroundColor=none;sketch=0;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="1">
+          <mxGeometry x="354" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KehCBfUnX_1g3-heXKs--15" value="&#xa;&lt;strong data-end=&quot;365&quot; data-start=&quot;343&quot;&gt;Lightweight &amp;amp; Fast&lt;/strong&gt; âš¡&#xa;&#xa;" style="whiteSpace=wrap;html=1;verticalAlign=top;labelBackgroundColor=none;sketch=0;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="1">
+          <mxGeometry x="354" y="779.9999999999999" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KehCBfUnX_1g3-heXKs--17" value="&#xa;&lt;strong data-end=&quot;516&quot; data-start=&quot;491&quot;&gt;Dependency Management&lt;/strong&gt; í ½í´„&#xa;&#xa;" style="whiteSpace=wrap;html=1;verticalAlign=top;labelBackgroundColor=none;sketch=0;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="1">
+          <mxGeometry x="640" y="554.9" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KehCBfUnX_1g3-heXKs--19" value="&#xa; &lt;strong data-end=&quot;664&quot; data-start=&quot;635&quot;&gt;Portability &amp;amp; Scalability&lt;/strong&gt; í ¼í¼&#xa;&#xa;" style="whiteSpace=wrap;html=1;verticalAlign=top;labelBackgroundColor=none;sketch=0;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="1">
+          <mxGeometry x="80" y="554.9" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KehCBfUnX_1g3-heXKs--21" value="&lt;strong data-end=&quot;813&quot; data-start=&quot;788&quot;&gt;Simplified Deployment&lt;/strong&gt; í ½íº€" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="1">
+          <mxGeometry x="80" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KehCBfUnX_1g3-heXKs--25" value="&lt;strong data-end=&quot;1099&quot; data-start=&quot;1075&quot;&gt;Security &amp;amp; Isolation&lt;/strong&gt; í ½í´’" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="1">
+          <mxGeometry x="640" y="780" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KehCBfUnX_1g3-heXKs--26" value="&lt;strong data-end=&quot;964&quot; data-start=&quot;938&quot;&gt;Microservices Friendly&lt;/strong&gt; í ½í´—" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="1">
+          <mxGeometry x="640" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KehCBfUnX_1g3-heXKs--27" value="&lt;strong data-end=&quot;1255&quot; data-start=&quot;1224&quot;&gt;Efficient CI/CD Integration&lt;/strong&gt; í ¾í´–" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="1">
+          <mxGeometry x="80" y="780" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KehCBfUnX_1g3-heXKs--32" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=0.979;exitY=0.017;exitDx=0;exitDy=0;exitPerimeter=0;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;" edge="1" parent="1" source="KehCBfUnX_1g3-heXKs--1" target="KehCBfUnX_1g3-heXKs--26">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="560" y="480" as="sourcePoint" />
+            <mxPoint x="600" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KehCBfUnX_1g3-heXKs--33" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;" edge="1" parent="1" source="KehCBfUnX_1g3-heXKs--1" target="KehCBfUnX_1g3-heXKs--25">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="590" y="780" as="sourcePoint" />
+            <mxPoint x="640" y="730" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KehCBfUnX_1g3-heXKs--34" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=1;entryDx=0;entryDy=0;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;" edge="1" parent="1" source="KehCBfUnX_1g3-heXKs--1" target="KehCBfUnX_1g3-heXKs--21">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="220" y="480" as="sourcePoint" />
+            <mxPoint x="270" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KehCBfUnX_1g3-heXKs--35" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.003;exitY=0.984;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;" edge="1" parent="1" source="KehCBfUnX_1g3-heXKs--1" target="KehCBfUnX_1g3-heXKs--27">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="210" y="750" as="sourcePoint" />
+            <mxPoint x="110" y="720" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
